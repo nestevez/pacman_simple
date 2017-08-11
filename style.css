@@ -2,5 +2,20 @@
   height: 400px;
   width: 400px;
   outline: thin solid black;
+}
+
+.zero {
+  display: inline-block;
+  vertical-align: top;
+  height: 20px;
+  width: 20px;
   background-color: black;
+}
+
+.one {
+  display: inline-block;
+  vertical-align: top;
+  height: 20px;
+  width: 20px;
+  background-color: blue;
 }
