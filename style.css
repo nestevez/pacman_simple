@@ -19,3 +19,44 @@
   width: 20px;
   background-color: blue;
 }
+
+.right {
+  display: inline-block;
+  vertical-align: top;
+  height: 20px;
+  background: url('./img/pacmanright.png');
+  background-position: center;
+  background-size: 20px 20px;
+  width: 20px;
+  background-color: black;
+}
+.left {
+  display: inline-block;
+  vertical-align: top;
+  height: 20px;
+  background: url('./img/pacmanleft.png');
+  background-position: center;
+  background-size: 20px 20px;
+  width: 20px;
+  background-color: black;
+}
+.up {
+  display: inline-block;
+  vertical-align: top;
+  height: 20px;
+  background: url('./img/pacmanup.png');
+  background-position: center;
+  background-size: 20px 20px;
+  width: 20px;
+  background-color: black;
+}
+.down {
+  display: inline-block;
+  vertical-align: top;
+  height: 20px;
+  background: url('./img/pacmandown.png');
+  background-position: center;
+  background-size: 20px 20px;
+  width: 20px;
+  background-color: black;
+}
