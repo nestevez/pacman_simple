@@ -1,0 +1,6 @@
+#screen {
+  height: 400px;
+  width: 400px;
+  outline: thin solid black;
+  background-color: black;
+}
